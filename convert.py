@@ -123,7 +123,7 @@ Trellising & Care: In warm US regions, give the vine substantial vertical suppor
 # ==========================================
 
 OUTPUT_FILE = "podcast.mp3"
-VOICE = "en-US-GuyNeural"  # US English male voice. Change to "en-US-AvaNeural" for female.
+VOICE = "en-US-AndrewNeural"  # US English male voice. Change to "en-US-AvaNeural" for female.
 
 async def main():
     print(f"Generating audio using voice: {VOICE}")
